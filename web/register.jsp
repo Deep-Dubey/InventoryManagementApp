@@ -17,7 +17,7 @@
                 <div class="row omb_row-sm-offset-3 omb_loginOr">
                     <div class="col-xs-12 col-sm-6">
                         <hr class="omb_hrOr">
-                         
+
                     </div>
                 </div>
 
@@ -25,34 +25,53 @@
                     <div class="col-xs-12 col-sm-6">	
 
                         <div class="input-group">
-                             
+                            <div class="input-group-text" id="btnGroupAddon">@</div>
                             <input type="text" class="form-control" name="userName" placeholder="email address" value="">  
                         </div>
                         <span class="help-block"></span>
+                        <div>
+                            <br>
+                        </div>
 
                         <div class="input-group">
-                             <input  type="password" class="form-control" name="password" placeholder="Password" value="">
+                            <input  type="password" class="form-control" name="password" placeholder="Password" value="">
                         </div>
                         <span class="help-block"></span>
+                        <div>
+                            <br>
+                        </div>
 
                         <div class="input-group">
-                             <input  type="text" class="form-control" name="firstName" placeholder="First Name" value="">
+                            <input  type="text" class="form-control" name="firstName" placeholder="First Name" value="">
                         </div> 
                         <span class="help-block"></span>
+                        <div>
+                            <br>
+                        </div>
 
                         <div class="input-group">
-                             <input  type="text" class="form-control" name="lastName" placeholder="Last Name" value="">
+                            <input  type="text" class="form-control" name="lastName" placeholder="Last Name" value="">
                         </div> 
                         <span class="help-block"></span>
+                        <div>
+                            <br>
+                        </div>
 
                         <div class="input-group">
-                             <input  type="text" class="form-control" name="email" placeholder="email" value="">
+                            <div class="input-group-text" id="btnGroupAddon">@</div>
+                            <input  type="text" class="form-control" name="email" placeholder="email" value="">
                         </div> 
                         <span class="help-block"></span>
+                        <div>
+                            <br>
+                        </div>
 
                         <div class="input-group">
-                             <input  type="text" class="form-control" name="phoneNumber" placeholder="Phone Number" value="">
+                            <input  type="text" class="form-control" name="phoneNumber" placeholder="Phone Number" value="">
                         </div> 
+                        <div>
+                            <br>
+                        </div>
                         <div class="row omb_row-sm-offset-3">
                             <div class="col-xs-12 col-sm-3">
                                 <br>
